@@ -7,6 +7,7 @@ public class Main {
     }
 
    private static void printMessage(){
+        // Добавил в ресурсы
        String a = "aaaa";
        System.out.println(a);
    }
