@@ -11,7 +11,7 @@ public class Main {
        String a = "aaaa";
        System.out.println(a);
    }
-    private static void printMessage1(){
+    private static void printMessage2(){
         // Добавил в ресурсы
         String a = "aaaa";
         System.out.println(a);
