@@ -32,7 +32,7 @@ public class Lesson3 {
                     }
                     if (q != userAnswer) {
                         System.out.printf("you lose.");
-                        System.out.print("Repeat the game?\n yes / no \n");
+                        System.out.print("end game?\n yes / no \n");
                     }
                     if (q == userAnswer) {
                         System.out.println("*** Congratulations you win ***");
